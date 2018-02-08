@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<evento1>
+	<señal> accidente </señal>
+	<kilometros> 42.200 </kilometros>
+	<nombre> A-49 </nombre>
+	<sentido> Huelva </sentido>
+	<corte_via> 1 </corte_via>
+	<date> fecha y hora </date>
+	<retencion> Si </retencion>
+	<kilometro_reten> 8 </kilometro_reten>
+</evento1>
+<evento2>
+	<señal> retencion </señal>
+	<kilometros> 550 </kilometros>
+	<nombre> A-4 </nombre>
+	<sentido> Sevilla </sentido>
+	<date> fecha y hora </date>
+	<retencion> Si </retencion>
+	<kilometro_reten> 3 </kilometro_reten>
+</evento2>
