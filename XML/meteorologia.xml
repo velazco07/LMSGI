@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<meteorologioa>
+	<precipitacion> 55% </precipitacion>
+	<estado_cielo> intervalos nubosos </estado_cielo>
+	<dir_viento> suroeste </dir_viento>
+	<vel_viento> 10 km/h </vel_viento>
+	<t_max> 21 ºC </t_max>
+	<t_min> 10 ºC </t_min>
+	<sens_max> 21 ºC </sens_max>
+	<sens_min> 10 ºC </sens_min>
+	<hume_max> 90% </hume_max>
+	<hume_min> 50% </hume_min>
+	<ultravioleta> 3 </ultravioleta>
+</meteorologioa>
